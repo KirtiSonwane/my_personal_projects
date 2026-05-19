@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="crudCleanA/crudCleanA.csproj" />
+  <Project Path="crudCleanAApplication/crudCleanAApplication.csproj" />
+  <Project Path="crudCleanAInfrastructure/crudCleanAInfrastructure.csproj" />
+  <Project Path="crudeCleanADomain/crudeCleanADomain.csproj" />
+</Solution>
